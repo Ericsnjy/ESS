@@ -23,11 +23,6 @@
 
 ---
 
-### 📈 Statistik GitHub Saya
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=EricSNJY&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ### 🤝 Mari Terhubung!
 - [Instagram](https://www.instagram.com/eric_snjy)
 
