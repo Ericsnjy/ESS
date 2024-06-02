@@ -6,7 +6,7 @@
 - 💕 Saya ingin berkolaborasi pada proyek-proyek pengembangan web yang menarik. Meskipun saya masih pemula, saya siap untuk belajar banyak.
 - 📫 Anda dapat menghubungi saya melalui email: [ericpartii08@gmail.com](ericpartii08@gmail.com)
 - 😄 Pronouns: He/Him
-- 🎧 Fun Fact: Saya Seorang Programmer dan Remixer
+- 🎧 Fun Fact: Saya Adalah Seorang Remixer
 
 ---
 
@@ -25,5 +25,6 @@
 
 ### 🤝 Mari Terhubung!
 - [Instagram](https://www.instagram.com/eric_snjy)
+- [Youtube](https://www.youtube.com/@Ericsnjy)
 
 Terima kasih telah mengunjungi profil saya! Jangan ragu untuk menghubungi saya jika Anda tertarik untuk berkolaborasi atau hanya ingin mengobrol tentang teknologi dan pengembangan web.
