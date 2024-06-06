@@ -27,4 +27,4 @@
 - [Instagram](https://www.instagram.com/eric_snjy)
 - [Youtube](https://www.youtube.com/@Ericsnjy)
 
-Terima kasih telah mengunjungi profil saya! Jangan ragu untuk menghubungi saya jika Anda tertarik untuk berkolaborasi atau hanya ingin mengobrol tentang teknologi dan pengembangan web.
+😁Thank you for visiting my profile! Feel free to contact me if you are interested in collaborating or just want to chat about technology and web development😁
