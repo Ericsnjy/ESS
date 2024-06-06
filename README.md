@@ -11,7 +11,7 @@
 ---
 
 ### 🌐Most Used Programming Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EricSNJY&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EricSNJY&layout=compact)
 
 ---
 
