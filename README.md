@@ -6,7 +6,7 @@
 - 💕 I want to collaborate on interesting web development projects. Even though I'm still a beginner, I'm ready to learn a lot.
 - 📫 You can contact me via email: [ericpartii08@gmail.com](ericpartii08@gmail.com)
 - 😄 Pronouns: He/Him
-- 🎧 Fun Fact: Saya Adalah Seorang Remixer
+- 🎧 Fun Fact: I Am A Remixer
 
 ---
 
